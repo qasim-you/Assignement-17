@@ -1,6 +1,4 @@
 # Assignement-17
-Assignment Deadline: 09 July, 2023
-
 Assignment Questions
 1- Practice exercise 13.1
 
