@@ -1,7 +1,7 @@
 /*  1. Create a global value for a counter. 2. Create a function that takes one argument. Return the result of a new
     Promise, setting a setTimeout() function that will contain the resolve
     instance.
-
+   
     3. Increment the counter within setTimeout() , adding one every second.
     Resolve the Promise with the value of the counter and the value of the
     variable that was in the function argument.
