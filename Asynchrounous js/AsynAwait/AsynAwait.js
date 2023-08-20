@@ -11,7 +11,7 @@
     function.
 
     5. Create a variable to capture the returned resolve value from the await
-    function. Output that result into the console.
+    function. Output that result into the console. 
 
     6. Create a loop to iterate 10 times, incrementing the value and invoking
     the async function, passing the value of the increment variable as the
